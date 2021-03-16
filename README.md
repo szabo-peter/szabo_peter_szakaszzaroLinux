@@ -1,0 +1,1 @@
+# szabo_peter_szakaszzaroLinux

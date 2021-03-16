@@ -1,0 +1,1000 @@
+ 1025  clear
+ 1026  node index.js 
+ 1027  clear
+ 1028  cd Day-10-gyak/
+ 1029  node hoeses.js 
+ 1030  cd git
+ 1031  ls
+ 1032  mkdir proba2
+ 1033  ls
+ 1034  cd proba2/
+ 1035  cd ..
+ 1036  cd proba2/
+ 1037  git init
+ 1038  cd ..
+ 1039  proba2
+ 1040  cd proba2
+ 1041  ls
+ 1042  ls -l
+ 1043  ls -a
+ 1044  cd ..
+ 1045  rm -r proba2
+ 1046  cd ..
+ 1047  cd proba2
+ 1048  cd git/
+ 1049  mkdir proba2
+ 1050  cd proba2/
+ 1051  git clone git@github.com:szabo-peter/proba2.git
+ 1052  ls -a
+ 1053  touch script.js
+ 1054  nano script.js 
+ 1055  ls
+ 1056  git status 
+ 1057  cd proba2
+ 1058  git status
+ 1059  cd ..
+ 1060  mv proba2 probatwo
+ 1061  ls
+ 1062  cd ..
+ 1063  cd git
+ 1064  cd probatwo/
+ 1065  cd proba2/
+ 1066  cd ..
+ 1067  ls
+ 1068  mv script.js ./proba2/
+ 1069  ls
+ 1070  cd proba2/
+ 1071  ls
+ 1072  git status 
+ 1073  git add script.js 
+ 1074  git status 
+ 1075  git commit 
+ 1076  git sta
+ 1077  git status 
+ 1078  git push
+ 1079  git branch dev
+ 1080  git checkout -b dev 
+ 1081  git checkout dev 
+ 1082  cd ..
+ 1083  cd proba2/
+ 1084  ls
+ 1085  nano script.js 
+ 1086  git status 
+ 1087  git add script.js 
+ 1088  git status 
+ 1089  git commit
+ 1090  git status 
+ 1091  git push 
+ 1092  git push --set-upstream origin dev
+ 1093  git status 
+ 1094  git branch origin/
+ 1095  git branch main 
+ 1096  git checkout main
+ 1097  git status 
+ 1098  history
+ 1099  git merge dev
+ 1100  git status 
+ 1101  git push
+ 1102  history
+ 1103  git checkout dev
+ 1104  nano script.js 
+ 1105  git status
+ 1106  git add script.js 
+ 1107  git status 
+ 1108  git commit 
+ 1109  git status
+ 1110  git push
+ 1111  git checkout main
+ 1112  cd ..
+ 1113  history
+ 1114  git clone git@github.com:flowacademyhu/kappa-pract-feb26.git
+ 1115  ls
+ 1116  cd kappa-pract-feb26/
+ 1117  ls
+ 1118  git branch peti
+ 1119  git checkout peti 
+ 1120  ls
+ 1121  nano main.js 
+ 1122  git status
+ 1123  git add main.js 
+ 1124  git status 
+ 1125  git commit
+ 1126  git status 
+ 1127  git push 
+ 1128  git push --set-upstream origin peti 
+ 1129  history
+ 1130  git status 
+ 1131  git pull origin master
+ 1132  git pull origin main
+ 1133  ls
+ 1134  git status 
+ 1135  nano main.js 
+ 1136  git commit 
+ 1137  git add main.js 
+ 1138  git commit 
+ 1139  git push 
+ 1140  cd Day-10-gyak/
+ 1141  node hoeses.js 
+ 1142  node index.js 
+ 1143  npm i axel
+ 1144  node test.js 
+ 1145  clear
+ 1146  cd kappa
+ 1147  cd Day-10-gyak/
+ 1148  node index.js 
+ 1149  clear
+ 1150  node index.js 
+ 1151  clear
+ 1152  node test.js 
+ 1153  ls
+ 1154  ls -a
+ 1155  cd ./demos
+ 1156  clear
+ 1157  node index.js 
+ 1158  clear
+ 1159  node codewars6.js 
+ 1160  clear
+ 1161  node codewars6.js 
+ 1162  cd Test-project/
+ 1163  npm init
+ 1164  npm i axel
+ 1165  cd kappa/
+ 1166  cd Test-project/
+ 1167  node test.js 
+ 1168  clear
+ 1169  node test.js 
+ 1170  clear
+ 1171  node test.js 
+ 1172  clear
+ 1173  node test.js 
+ 1174  clear
+ 1175  node test.js 
+ 1176  celar
+ 1177  clear
+ 1178  cd ..
+ 1179  cd Asztal/
+ 1180  cd Flow/
+ 1181  mkdir Git
+ 1182  node codewars5.js 
+ 1183  clear
+ 1184  node codewars7.js 
+ 1185  node codewars8.js 
+ 1186  node codewars9.js 
+ 1187  cd Day-4/
+ 1188  node gyakf4.js 
+ 1189  cd kappa/
+ 1190  cd Day-10-gyak/
+ 1191  node index.js 
+ 1192  cd Day-10-gyak/
+ 1193  node index.js 
+ 1194  cd git
+ 1195  git clone https://github.com/hgarc014/git-game.git
+ 1196  ls
+ 1197  cd git-game/
+ 1198  ls
+ 1199  cat README.md 
+ 1200  git status
+ 1201  man git commit
+ 1202  git log
+ 1203  git log 'Hello World!'
+ 1204  git grep hello world
+ 1205  git grep ^Hello
+ 1206  git grep ^Hello | cat
+ 1207  cat git grep ^Hello
+ 1208  cat git log grep ^Hello
+ 1209  man git log
+ 1210  git log grep Hello
+ 1211  git log --grep Hello
+ 1212  git log --grep level
+ 1213  git log --grep -i hello
+ 1214  cat README.md 
+ 1215  git checkout 
+ 1216  ls
+ 1217  cat README.md 
+ 1218  git checkout 640273807f9bac8af03575f82b788663d4b99927
+ 1219  ls
+ 1220  car README.md 
+ 1221  cat README.md 
+ 1222  man git brench
+ 1223  git brench -a
+ 1224  git checkout bug
+ 1225  ls
+ 1226  cat README.md 
+ 1227  git status
+ 1228  git log
+ 1229  cat cool.ccp
+ 1230  ls
+ 1231  cat cool.cpp
+ 1232  git status cool.cpp
+ 1233  man blame
+ 1234  man git blame
+ 1235  man git blame cool.cpp
+ 1236  git blame cool.cpp
+ 1237  man git brench
+ 1238  man git brench --help
+ 1239  git branch -av
+ 1240  git checkout LinusTorvalds2014
+ 1241  ls
+ 1242  cat README.md 
+ 1243  ls -a
+ 1244  cat .gitignore
+ 1245  git checkout tree
+ 1246  ls
+ 1247  cat README.md 
+ 1248  ./outputclue.sh 
+ 1249  cat outputclue.sh
+ 1250  git merge tree cod4life
+ 1251  ./outputclue.sh 
+ 1252  nano outputclue.sh 
+ 1253  ./outputclue.sh 
+ 1254  nano outputclue.sh 
+ 1255  ./outputclue.sh 
+ 1256  ls
+ 1257  ./nextclue_input.cpp
+ 1258  cat README.md 
+ 1259  git branch -av
+ 1260  git branch -a
+ 1261  git branch -av
+ 1262  ./outputclue.sh nextclue_input.cpp
+ 1263  git merge code4life
+ 1264  git merge origin/code4life
+ 1265  ls
+ 1266  nano nextclue_input.cpp 
+ 1267  git commit
+ 1268  git add nextclue_input.cpp 
+ 1269  git commit
+ 1270  git status
+ 1271  ls
+ 1272  ./outputclue.sh
+ 1273  ./outputclue.sh nextclue_input.cpp 
+ 1274  git checkout mouse 
+ 1275  ls
+ 1276  cat README.md 
+ 1277  cat remember 
+ 1278  cat README.md 
+ 1279  git grep .sh
+ 1280  git grep /.sh
+ 1281  cat git grep /.sh
+ 1282  cat git grep \.sh
+ 1283  cat git grep .sh$
+ 1284  cat git grep .sh&
+ 1285  cat README.md 
+ 1286  ls -a
+ 1287  history
+ 1288  cat README.md 
+ 1289  git grep nextclue
+ 1290  git grepnext
+ 1291  git grep next
+ 1292  ls -a
+ 1293  git log remember
+ 1294  git diff 617c895242a4839fc14d30234602e51b3a84a7df cfe7f27379f72c67fc59e05272c9b69b98963cec
+ 1295  git diff 617c895242a4839fc14d30234602e51b3a84a7df 05888e5aff9eb3d7937a84d1ef621946bc44acca
+ 1296  cat README.md 
+ 1297  git diff bug remember
+ 1298  git checkout Henry
+ 1299  git status 
+ 1300  ls
+ 1301  cat README.md 
+ 1302  git brench -av
+ 1303  git branch -av
+ 1304  git checkout origin/Henry
+ 1305  ls
+ 1306  cat README.md 
+ 1307  git stat
+ 1308  git status 
+ 1309  git branch -d Henry
+ 1310  git checkout Henry
+ 1311  git status 
+ 1312  git branch -d Henry
+ 1313  git branch -D Henry
+ 1314  git tag -d Henry
+ 1315  git checkout Henry
+ 1316  ls
+ 1317  git status
+ 1318  cat README.md 
+ 1319  man git update
+ 1320  git branch -av
+ 1321  clear
+ 1322  cat README.md 
+ 1323  git status
+ 1324  git checkout main
+ 1325  git branch -av
+ 1326  git checkout master
+ 1327  ls
+ 1328  cat README.md 
+ 1329  git remote -v
+ 1330  git remote add upstream https://github.com/drami025/git-game.git
+ 1331  git remote -v
+ 1332  git pull upstream master
+ 1333  ls
+ 1334  cat README.md 
+ 1335  cd Day-10-gyak/
+ 1336  cd index.js
+ 1337  node index.js 
+ 1338  npm init
+ 1339  cd ..
+ 1340  ls
+ 1341  cd First_project/
+ 1342  npm init
+ 1343  npm i table
+ 1344  node map.js 
+ 1345  cd First_project/
+ 1346  node map.js 
+ 1347  npm i chalk
+ 1348  node map.js 
+ 1349  clear
+ 1350  node test.js 
+ 1351  cd ..
+ 1352  node test.js 
+ 1353  cd kappa/
+ 1354  cd First_project/
+ 1355  node map.js 
+ 1356  clear
+ 1357  node map.js 
+ 1358  clear
+ 1359  mkdir Git
+ 1360  rm Git
+ 1361  rem -r Git
+ 1362  rm -r Git
+ 1363  cd ..
+ 1364  ls
+ 1365  cd git
+ 1366  ls
+ 1367  git clone git@github.com:flowacademyhu/kappaman.git
+ 1368  ls
+ 1369  cd kappaman
+ 1370  ls
+ 1371  git checkout -v Peti
+ 1372  git checkout -b Peti
+ 1373  ls
+ 1374  git status
+ 1375  git add
+ 1376  git add .
+ 1377  git status
+ 1378  git commit
+ 1379  git status 
+ 1380  git push
+ 1381  git push --set-upstream origin Peti 
+ 1382  node map.js 
+ 1383  cd ..
+ 1384  cd..
+ 1385  cd ..
+ 1386  cd kappa
+ 1387  cd First_project/
+ 1388  node map.js 
+ 1389  cd kappa
+ 1390  cd ..
+ 1391  cd git
+ 1392  cd kappa
+ 1393  cd kappaman/
+ 1394  ls
+ 1395  git status
+ 1396  git commit 
+ 1397  git add map.js 
+ 1398  git commit 
+ 1399  git push
+ 1400  cd ..
+ 1401  cd kappa/
+ 1402  cd First_project/
+ 1403  node map.js 
+ 1404  cd kappa/
+ 1405  cd First_project/
+ 1406  node map.js 
+ 1407  cd ..
+ 1408  cd git
+ 1409  cd kappaman/
+ 1410  git status 
+ 1411  add map.js 
+ 1412  git add map.js 
+ 1413  git commit 
+ 1414  git push
+ 1415  cd kappa
+ 1416  cd ProgAlapok/
+ 1417  cd First_project/
+ 1418  ls
+ 1419  node map.js 
+ 1420  cd ..
+ 1421  Day-10-gyak/
+ 1422  ls
+ 1423  cd Day-10-gyak/
+ 1424  ls
+ 1425  node hoeses.js
+ 1426  cd ..
+ 1427  cd Day-10-gyak/
+ 1428  node hoeses.js 
+ 1429  ls
+ 1430  node index.js 
+ 1431  cd ProgAlapok/
+ 1432  cd Day-10-gyak/
+ 1433  node hoeses.js 
+ 1434  cd ..
+ 1435  cd ~
+ 1436  cd git/
+ 1437  ls
+ 1438  cd kappaman/
+ 1439  ls
+ 1440  git status
+ 1441  ls 
+ 1442  git checkout main
+ 1443  ls
+ 1444  git status
+ 1445  git pull
+ 1446  ls
+ 1447  cd ..
+ 1448  cd kappa/
+ 1449  cd ProgAlapok/
+ 1450  cd First_project/
+ 1451  ls
+ 1452  node map.js 
+ 1453  cd ..
+ 1454  cd git
+ 1455  cd ..
+ 1456  cd git
+ 1457  cd kappaman/
+ 1458  ls
+ 1459  git checkout vasi
+ 1460  git branch -av
+ 1461  git pull
+ 1462  git checkout vasi
+ 1463  ls
+ 1464  git pull
+ 1465  cd ..
+ 1466  cd kappa/
+ 1467  cd ProgAlapok/
+ 1468  cd First_project/
+ 1469  ls
+ 1470  node index.js 
+ 1471  cd kappa/
+ 1472  cd ..
+ 1473  cd ~/kappa/ProgAlapok/First_project/
+ 1474  node index.js 
+ 1475  ~/kappa/ProgAlapok/First_project/
+ 1476  cd ~/kappa/ProgAlapok/First_project/
+ 1477  node index.js 
+ 1478  ~/kappa/ProgAlapok/First_project/
+ 1479  node index.js 
+ 1480  cd ~/kappa/ProgAlapok/First_project/
+ 1481  node index.js 
+ 1482  ~/kappa/ProgAlapok/First_project/
+ 1483  cd ~/kappa/ProgAlapok/First_project/
+ 1484  node index.js 
+ 1485  cd ~/kappa/ProgAlapok/First_project/
+ 1486  node index.js 
+ 1487  cd ~/kappa/ProgAlapok/First_project/
+ 1488  node index.js 
+ 1489  ~/kappa/ProgAlapok/First_project/
+ 1490  cd ~/kappa/ProgAlapok/First_project/
+ 1491  node index.js 
+ 1492  cd ~/kappa/ProgAlapok/First_project/
+ 1493  node index.js 
+ 1494  cd ~/kappa/ProgAlapok/First_project/
+ 1495  node index.js 
+ 1496  cd ~/kappa/ProgAlapok/First_project/
+ 1497  node index.js 
+ 1498  [A
+ 1499  node index.js 
+ 1500  cd ..
+ 1501  cd git/
+ 1502  cd kappaman/
+ 1503  ls
+ 1504  git status
+ 1505  git checkout main
+ 1506  git checkout peti
+ 1507  git status 
+ 1508  git restore map.js
+ 1509  git checkout main 
+ 1510  git status
+ 1511  git add map.js 
+ 1512  git commit 
+ 1513  git push 
+ 1514  cd First_project/
+ 1515  node map.js 
+ 1516  npm i terminal-kit
+ 1517  npm table
+ 1518  npm i table
+ 1519  npm i readline-sync
+ 1520  node map.js 
+ 1521  cd kappa/
+ 1522  cd ProgAlapok/
+ 1523  cd First_project/
+ 1524  node index.js 
+ 1525  cd kappa/
+ 1526  cd ProgAlapok/
+ 1527  cd First_project/
+ 1528  ls
+ 1529  node index.js 
+ 1530  cd ..
+ 1531  cd git/
+ 1532  cd kappaman/
+ 1533  git status
+ 1534  git pull
+ 1535  ls
+ 1536  node index.js
+ 1537  cd ..
+ 1538  cd kappa/
+ 1539  cd ProgAlapok/
+ 1540  cd First_project/
+ 1541  ls
+ 1542  node index.js
+ 1543  cd kappa
+ 1544  cd ProgAlapok/
+ 1545  cd First_project/
+ 1546  ls
+ 1547  node index.js
+ 1548  npm i axel
+ 1549  cd ~/kappa/ProgAlapok/First_project/
+ 1550  ls
+ 1551  node index.js 
+ 1552  ls
+ 1553  clear
+ 1554  node index.js 
+ 1555  clear
+ 1556  cd ..
+ 1557  cd git
+ 1558  cd kappaman/
+ 1559  git head
+ 1560  git show head
+ 1561  git show HEAD
+ 1562  git status 
+ 1563  git add package.json 
+ 1564  git commit
+ 1565  git push
+ 1566  git status
+ 1567  cd ..
+ 1568  git clone https://github.com/git-game/git-game-v2.git
+ 1569  ls
+ 1570  cd git-game-v2/
+ 1571  ls
+ 1572  cat README.md 
+ 1573  git ls
+ 1574  git ls-files
+ 1575  cat README.md | grep -c
+ 1576  grep --help
+ 1577  git checkout -av
+ 1578  git checkout -a
+ 1579  git branch -av
+ 1580  cat README.md | grep all list
+ 1581  git all list
+ 1582  cat README.md 
+ 1583  find . -name | xargs wc -l
+ 1584  wc -l
+ 1585  cat ./git-game-v2 | wc -l
+ 1586  cat ~/git/git-game-v2 | wc -l
+ 1587  cat README.md | wc -l
+ 1588  cat git ls-files | wc-l
+ 1589  git ls-files | wc-l
+ 1590  find . -type f |grep -v "^./public" |grep -v "^./modules"|grep -v "^./templates"|xargs cat |wc -l
+ 1591  find . -type f |grep -v "^~/git/git-game-v2" |xargs cat |wc -l
+ 1592  find ~/git/git-game-v2/ -type f |xargs cat |wc -l
+ 1593  find ~/git/git-game-v2/ -type f |wc -l
+ 1594  ls
+ 1595  cd AllFiles/
+ 1596  ls
+ 1597  find ~/git/git-game-v2/ -type f |wc -l
+ 1598  find ./ -type f |wc -l
+ 1599  cat cleanbuild.mk 
+ 1600  clear
+ 1601  find ~/git/git-game-v2/ -type f |wc -l
+ 1602  git ls-files
+ 1603  git ls-files wc-l
+ 1604  git ls-files | wc -l
+ 1605  git ls-files | xargs wc -l
+ 1606  git checkout 6813
+ 1607  ls
+ 1608  cd ..
+ 1609  git checkout 6813
+ 1610  ls
+ 1611  cat README.md 
+ 1612  git status 
+ 1613  git checkout main
+ 1614  git checkout master
+ 1615  ls
+ 1616  git status 
+ 1617  git checkout 6861
+ 1618  ls
+ 1619  cat README.md 
+ 1620  git log
+ 1621  git show 16a28decee95df6d07def6cfdf32b3eee2c626c9
+ 1622  git log |  grep ^I have many keys
+ 1623  git show | grep ^I have many keys
+ 1624  cat README.md 
+ 1625  git show *commit hash*
+ 1626  git show *I have many keys*
+ 1627  git show *I have many keys
+ 1628  git checkout snowden
+ 1629  ls
+ 1630  cat README.md 
+ 1631  git showless
+ 1632  git shortlog
+ 1633  git checkout anon
+ 1634  ls
+ 1635  cat README.md 
+ 1636  git describe
+ 1637  git checkout return
+ 1638  ls
+ 1639  cat README.md 
+ 1640  git checkout pretty
+ 1641  ls
+ 1642  cat README.md 
+ 1643  git log --pretty=format: ''tree hash: %t --> subject: %s''
+ 1644  git checkout tree
+ 1645  gti status
+ 1646  git status 
+ 1647  ls
+ 1648  rm subject\: 
+ 1649  ls
+ 1650  git sta
+ 1651  git status 
+ 1652  git log --pretty=format: ''tree hash: %t
+ 1653  git log
+ 1654  git log %T
+ 1655  git log --pretty=format: ''tree hash: Tt
+ 1656  git log --pretty=format: ''tree hash: %T
+ 1657  git log --pretty=format %T
+ 1658  git log --pretty format %T
+ 1659  git checkout SIGPOLL 
+ 1660  ls
+ 1661  cat README.md 
+ 1662  cd kappa/
+ 1663  cd ProgAlapok/First_project/
+ 1664  ls
+ 1665  node index.js 
+ 1666  cd sentinel/
+ 1667  ls
+ 1668  ls -a
+ 1669  ls
+ 1670  HDSentinel
+ 1671  sudo ./ HDSentinel
+ 1672  sudo HDSentinel
+ 1673  ls -f
+ 1674  ls -a
+ 1675  man ls
+ 1676  ls -l
+ 1677  chmod 755 HDSentinel
+ 1678  ls -l
+ 1679  sudo HDSentinel
+ 1680  ls
+ 1681  HDSentinel
+ 1682  sudo ./HDSentinel
+ 1683  cd git
+ 1684  cd kappa-pract-feb26/
+ 1685  cd ..
+ 1686  cd kappaman/
+ 1687  ls
+ 1688  git pull
+ 1689  cd ..
+ 1690  cd kappa/
+ 1691  cd ProgAlapok/First_project/
+ 1692  ls
+ 1693  index.js
+ 1694  node index.js 
+ 1695  cd kappa/ProgAlapok/First_project/
+ 1696  ls
+ 1697  node index.js
+ 1698  cd kappa/ProgAlapok/First_project/
+ 1699  node index.js
+ 1700  cd ProgAlapok/
+ 1701  node codewars11.js 
+ 1702  cd ProgAlapok/First_project/
+ 1703  node index.js 
+ 1704  cd ..
+ 1705  cd ProgAlapok/
+ 1706  node codewars10.js
+ 1707  node codevars10.js 
+ 1708  node codewars10.js
+ 1709  cd kappa/ProgAlapok/First_project/
+ 1710  ls
+ 1711  node index.js 
+ 1712  cd git
+ 1713  cd kappaman/
+ 1714  git status 
+ 1715  git ./add
+ 1716  git add ./
+ 1717  git status
+ 1718  git commit 
+ 1719  git push
+ 1720  netcat localhost 5000
+ 1721  cd haloism/
+ 1722  netcat localhost 5000
+ 1723  apt install netcat
+ 1724  apt-get install netcat
+ 1725  sudo install netcat
+ 1726  sudo apt-get install netcat
+ 1727  nc example.com 80
+ 1728  mkdir haloism
+ 1729  cd haloism/
+ 1730  nano hello.txt
+ 1731  { echo -ne "HTTP/1.0 200 OK\r\nContent-Length: $(wc -c <hello.txt)\r\n\r\n"; cat hello.txt; } | nc -l 8080
+ 1732  apt-get install dnsutils 
+ 1733  sudo apt-get install dnsutils 
+ 1734  dig google.com
+ 1735  dig facebook.com
+ 1736  netcat -l 5000
+ 1737  if config
+ 1738  ifconfig
+ 1739  sudo apt install net-tools
+ 1740  ifconfig
+ 1741  ifcongif | grep inet
+ 1742  ifconfig | grep inet
+ 1743  nc 192.168.5.52
+ 1744  nc 192.168.5.55 4242
+ 1745  ls
+ 1746  node hello.txt 
+ 1747  nano hello.txt 
+ 1748  nc 192.168.5.55 4242
+ 1749  cat hello.txt | nc 192.168.5.55 4242
+ 1750  cat hello.txt | nc -l 4242
+ 1751  cat hello.txt | nc 192.168.5.55 4242
+ 1752  nc 192.168.5.55 4242
+ 1753  nc 192.168.5.56 5000
+ 1754  nc 192.168.5.53 5000
+ 1755  nc 192.168.5.52 5000
+ 1756  nc 192.168.5.54 5000
+ 1757  nc 192.168.5.58 5000
+ 1758  szi
+ 1759  nc 192.168.5.58 5000
+ 1760  nc 192.168.5.568 5000
+ 1761  nc 192.168.5.56 5000
+ 1762  nc 192.168.5.52 5000
+ 1763  szia
+ 1764  nc 192.168.5.54 5000
+ 1765  cd git
+ 1766  cd kappaman/
+ 1767  git pull
+ 1768  cd ProgAlapok/
+ 1769  node test.js 
+ 1770  cd git
+ 1771  cd kappaman/
+ 1772  git pull
+ 1773  cd ~/kappa/ProgAlapok/First_project/
+ 1774  node index.js 
+ 1775  cd ProgAlapok/
+ 1776  cd Z_Codewars/
+ 1777  node codewars9.js 
+ 1778  node codewars12.js 
+ 1779  node codewars13.js 
+ 1780  node codewars12.js 
+ 1781  node codewars13.js 
+ 1782  cd ProgAlapok/Z_Codewars/
+ 1783  node codewars14.js 
+ 1784  node codewars15.js 
+ 1785  node codewars16.js 
+ 1786  node codewars17.js 
+ 1787  node codewars7.js 
+ 1788  node codewars18.js 
+ 1789  cd ..
+ 1790  node test.js 
+ 1791  node codewars18.js 
+ 1792  cd Z_Codewars/
+ 1793  node codewars18.js 
+ 1794  node codewars19.js 
+ 1795  node codewars17.js 
+ 1796  cd ProgAlapok/Z_Codewars/
+ 1797  node codewars20.js 
+ 1798  cd ..
+ 1799  cd git/kappaman/
+ 1800  git pull
+ 1801  git add ./
+ 1802  git commmit
+ 1803  git commit
+ 1804  git push
+ 1805  git add ./
+ 1806  git commit
+ 1807  git push
+ 1808  cd Day-7
+ 1809  cd ProgAlapok/
+ 1810  cd Day-7/
+ 1811  node d7gyakf2.js 
+ 1812  cd ..
+ 1813  cd ProgAlapok/Z_Codewars/
+ 1814  node codewars22.js 
+ 1815  node codewars24.js 
+ 1816  node codewars24.js ű
+ 1817  node codewars24.js
+ 1818  cd ..
+ 1819  cd ~
+ 1820  cd kappa/ProgAlapok/First_project/
+ 1821  cd ..
+ 1822  cd..
+ 1823  cd ..
+ 1824  cd git
+ 1825  cd kappaman/
+ 1826  ls
+ 1827  git status 
+ 1828  git pull
+ 1829  cd ..
+ 1830  cd kappa/ProgAlapok/First_project/
+ 1831  ls
+ 1832  node index.js 
+ 1833  clesr
+ 1834  clear
+ 1835  node index.js 
+ 1836  cd ..
+ 1837  cd git
+ 1838  cd kappaman/
+ 1839  git add
+ 1840  git add ./
+ 1841  git commit
+ 1842  git push
+ 1843  sudo apt-get install mpg123
+ 1844  cd git
+ 1845  cd kappa
+ 1846  cd kappaman/
+ 1847  cd pull
+ 1848  git pull
+ 1849  cd ~/kappa/ProgAlapok/First_project/
+ 1850  node index.js 
+ 1851  npm i cfonts
+ 1852  node index.js 
+ 1853  clear
+ 1854  node index.js 
+ 1855  node index.js 
+ 1856  sudo apt-get install mpg123
+ 1857  node index.js 
+ 1858  q
+ 1859  node index.js 
+ 1860  cd ~/kappa/ProgAlapok/First_project/
+ 1861  node index.js 
+ 1862  cd git
+ 1863  cd kappaman/
+ 1864  git add ./
+ 1865  git commit 
+ 1866  git push
+ 1867  cd ..
+ 1868  cd ~/kappa/ProgAlapok/First_project/
+ 1869  node index.js 
+ 1870  cd ProgAlapok/First_project/
+ 1871  npm i mpg123
+ 1872  cd ProgAlapok/First_project/
+ 1873  cd kappa/ProgAlapok/First_project/
+ 1874  node index.js 
+ 1875  cd kappa/ProgAlapok/First_project/
+ 1876  node index.js 
+ 1877  cd kappa/ProgAlapok/First_project/
+ 1878  node index.js 
+ 1879  cd kappa/ProgAlapok/First_project/[B
+ 1880  node index.js 
+ 1881  cd kappa/ProgAlapok/First_project/[B
+ 1882  cd kappa/ProgAlapok/First_project/
+ 1883  node index.js 
+ 1884  cd kappa/ProgAlapok/First_project/
+ 1885  node index.js 
+ 1886  cd kappa/ProgAlapok/First_project/
+ 1887  node index.js 
+ 1888  q
+ 1889  node index.js 
+ 1890  d ..
+ 1891  cd ..
+ 1892  cd git
+ 1893  cd kappaman/
+ 1894  git add ./
+ 1895  git commit 
+ 1896  git push
+ 1897  git pull
+ 1898  cd ..
+ 1899  cd kappa/ProgAlapok/First_project/
+ 1900  node index.js 
+ 1901  cd kappa/ProgAlapok/First_project/
+ 1902  node index.js 
+ 1903  q
+ 1904  cd git
+ 1905  cd kappaman/
+ 1906  ls
+ 1907  ls-l
+ 1908  ls -l
+ 1909  git pull
+ 1910  ls
+ 1911  cd ..
+ 1912  cd kappa/ProgAlapok/First_project/
+ 1913  node index.js 
+ 1914  cd kappa/
+ 1915  cd ..
+ 1916  cd git
+ 1917  ls
+ 1918  cd Veglegesjatek/
+ 1919  git clone git@github.com:flowacademyhu/kappaman.git
+ 1920  ls
+ 1921  cd kappaman/
+ 1922  ls
+ 1923  cd kappa/ProgAlapok/First_project/
+ 1924  cd ~/kappa/ProgAlapok/First_project/
+ 1925  node index.js 
+ 1926  q
+ 1927  node index.js 
+ 1928  cd ~/kappa/ProgAlapok/First_project/
+ 1929  node index.js 
+ 1930  cd ~/kappa/ProgAlapok/First_project/
+ 1931  node index.js 
+ 1932  cd ~/kappa/ProgAlapok/First_project/
+ 1933  node index.js 
+ 1934  cd ~/kappa/ProgAlapok/First_project/
+ 1935  node index.js 
+ 1936  cd ProgAlapok/
+ 1937  node test.js 
+ 1938  cd Day-7
+ 1939  cd ProgAlapok/Day-7/
+ 1940  node rendezesek.js 
+ 1941  cd ~/kappa/ProgAlapok/Z_Codewars/
+ 1942  node codewars26.js 
+ 1943  cd ~/kappa/ProgAlapok/Z_Codewars/
+ 1944  node codewars26.js 
+ 1945  cd ~/kappa/ProgAlapok/Z_Codewars/
+ 1946  node codewars26.js 
+ 1947  cd ..
+ 1948  node test.js 
+ 1949  cd ~/kappa/ProgAlapok/Z_Codewars/
+ 1950  node codewars26.js 
+ 1951  cd ..
+ 1952  node test.js 
+ 1953  cd ProgAlapok/
+ 1954  cs Z_Codewars/
+ 1955  cd Z_Codewars/
+ 1956  node codewars27.js 
+ 1957  node codewars28.js 
+ 1958  node codewars27.js 
+ 1959  node codewars28.js 
+ 1960  cd ProgAlapok/Z_Codewars/
+ 1961  node codewars26.js 
+ 1962  cd ProgAlapok/Z_Codewars/
+ 1963  node codewars26.js 
+ 1964  cd ..
+ 1965  node test.js 
+ 1966  node codewars26.js 
+ 1967  cd Z_Codewars/
+ 1968  node codewars26.js 
+ 1969  cd ..
+ 1970  node test.js 
+ 1971  cd Z_Codewars/
+ 1972  node codewars26.js 
+ 1973  cd ..
+ 1974  node test.js 
+ 1975  cd Z_Codewars/
+ 1976  node codewars26.js 
+ 1977  cd ProgAlapok/
+ 1978  node test.js 
+ 1979  cd Z_Codewars/
+ 1980  node codewars29.js 
+ 1981  cd ProgAlapok/
+ 1982  node test.js 
+ 1983  cd Z_Codewars/
+ 1984  node codewars30.js 
+ 1985  cd ..
+ 1986  node test.js 
+ 1987  cd Z_Codewars/
+ 1988  node codewars32.js 
+ 1989  cd git
+ 1990  ls
+ 1991  mkdir probav12
+ 1992  cd probav12/
+ 1993  git status
+ 1994  git init
+ 1995  ls
+ 1996  cd git clone git@github.com:szabo-peter/szabo_peter_szakaszzaroLinux.git
+ 1997  git clone git@github.com:szabo-peter/szabo_peter_szakaszzaroLinux.git
+ 1998  ls
+ 1999  cd szabo_peter_szakaszzaroLinux/
+ 2000  touch szakaszzaro_feladat
+ 2001  echo > szakaszzaro_feladat Hello
+ 2002  cat szakaszzaro_feladat 
+ 2003  mv szakaszzaro_feladat feladat
+ 2004  ls
+ 2005  cp feladat feladat2
+ 2006  ls
+ 2007  rm feladat2 
+ 2008  cat feladat 
+ 2009  grep NetworkManager /var/log/syslog
+ 2010  echo > feladat grep NetworkManager /var/log/syslog
+ 2011  cat feladat 
+ 2012  echo > feladat Hello
+ 2013  cat feladat 
+ 2014  grep NetworkManager /var/log/syslog > echo feladat 
+ 2015  cat feladat 
+ 2016  grep NetworkManager /var/log/syslog > feladat 
+ 2017  ls
+ 2018  rm echo
+ 2019  cat feladat 
+ 2020  cp ~/.bash_history ~/szabo_peter_szakaszzaroLinux/
+ 2021  ls
+ 2022  history
+ 2023  touch history
+ 2024  history > history
